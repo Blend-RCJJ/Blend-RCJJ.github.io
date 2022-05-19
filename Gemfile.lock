@@ -87,11 +87,11 @@ PLATFORMS
 
 DEPENDENCIES
   cloudcannon-jekyll-bookshop (= 2.2.2)
-  jekyll-bookshop (= 2.2.2)
+  jekyll-bookshop
   jekyll-pagebreak (~> 0.3)
   jekyll-sitemap
   jekyll-tagging
   jekyll-watch!
 
 BUNDLED WITH
-   2.1.4
+   2.3.10
