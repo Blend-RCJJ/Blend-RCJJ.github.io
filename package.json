@@ -11,6 +11,7 @@
     "deploy": "npm run build && gh-pages -d _site",
     "build": "bundle exec jekyll build"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bglw/bookshop-example.git"
