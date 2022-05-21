@@ -23,6 +23,9 @@ jobs:
         with:
           ruby-version: 3.0.0
       - run: gem install jekyll bundler
+      
+      - name: bundle install
+        run: bundle install
 
       - name: Install NPM packages
         run: npm ci
