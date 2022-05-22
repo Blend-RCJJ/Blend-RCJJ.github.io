@@ -16,8 +16,6 @@ exclude:
   - postcss.config.js
   - node_modules
 
-baseurl: /
-
 include:
   - _cloudcannon
 
