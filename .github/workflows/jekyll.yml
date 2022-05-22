@@ -30,10 +30,8 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6.8
-#       - run: gem install jekyll bundler
-      
-      - name: bundle install
         run: |
+          gem install jekyll bundler
           bundle config path vendor/bundle
           bundle install
 
