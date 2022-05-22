@@ -31,14 +31,11 @@ collections:
   pages:
     output: true
     permalink: /:title/
-  projects:
-    output: true
-    permalink: /project/:slug
   testimonials:
     output: false
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /:year:month:day/
 
 cloudcannon:
   collections:
