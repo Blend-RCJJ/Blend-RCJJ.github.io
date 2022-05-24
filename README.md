@@ -1,3 +1,1 @@
-blend-testblog.github.io
-
-ねこ
+JekyllテーマのVongeで作ったブログでごじゃる！
