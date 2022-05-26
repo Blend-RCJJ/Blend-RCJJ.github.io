@@ -1,6 +1,6 @@
 title: Blend
 
-baseurl: https://blend-rcjj.github.io
+url: https://blend-rcjj.github.io
 
 plugins:
   - jekyll-bookshop
