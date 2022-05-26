@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /https://blend-rcjj.github.io/sitemap.xml
