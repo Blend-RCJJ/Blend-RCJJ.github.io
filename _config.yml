@@ -1,5 +1,7 @@
 title: Blend
 
+url: https://blend-rcjj.github.io
+
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
